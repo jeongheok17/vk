@@ -1,4 +1,4 @@
-public class wel
+public class vk
 {
 	public static void main(String[] args)
 	{
